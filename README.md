@@ -29,6 +29,8 @@ You can then use this profile with Puppeteer to automate tasks (uploading, comme
 ## 🛠️ Step-by-Step Setup
 
 ### 1. Run the Generator Script
+Click the green code button > codespaces, then create a new codespace and open in vscode web / in browser.
+
 Open your terminal in GitHub Codespaces and run:
 
 ```bash
