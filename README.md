@@ -1,6 +1,4 @@
-Here is a comprehensive `README.md` for your project. It explains **why** this exists, **how** to run it, and **how to use the resulting profile** in your Node.js/Puppeteer code.
-
-You can create a new file named `README.md# 🎥 YouTube/Google Browser Profile Generator
+# 🎥 YouTube/Google Browser Profile Generator
 
 **Automate YouTube logins without being detected as a bot.**
 
