@@ -2,12 +2,7 @@
 # =============================================================================
 # get-chrome-profile.sh
 # One-time script: log into YouTube via visible browser, save Chrome profile.
-#
-# UPDATED:
-# - Stores profile in CURRENT directory (visible in VS Code)
-# - Excludes socket files that break the zip command
-# - Fixes permissions (root -> user)
-# =============================================================================
+#==================================================================
 
 set -e
 
@@ -34,7 +29,7 @@ DISP=":99"
 
 echo ""
 echo "============================================="
-echo "   YouTube Chrome Profile Setup"
+echo "  Chrome Profile Setup"
 echo "============================================="
 echo ""
 
