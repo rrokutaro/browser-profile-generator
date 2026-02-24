@@ -4,7 +4,7 @@
 
 This project allows you to log into Google/YouTube manually inside a remote headless server (like GitHub Codespaces or a VPS). It captures your **cookies, session tokens, and browser signature** into a portable Chrome Profile.
 
-You can then use this profile with Puppeteer to automate tasks (uploading, commenting, analyzing) **without** needing to log in again or solve captchas.
+You can then use this profile with Puppeteer to automate tasks (uploading, commenting, analyzing) or RETRIEVE FRESH COOKIES to use with yt-dlp 😎 **without** needing to log in again or solve captchas.
 
 ---
 
