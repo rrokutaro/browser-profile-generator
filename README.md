@@ -13,7 +13,7 @@ You can then use this profile with Puppeteer to automate tasks (uploading, comme
 
 1.  **The Script** launches a hidden Linux desktop (Xvfb) and a Chrome browser inside your Codespace.
 2.  **NoVNC** creates a web link so you can "see" that desktop from your phone or local computer.
-3.  **You** log into YouTube manually (bypassing bot detection).
+3.  **You** log into YouTube manually or any other site for your use case (bypassing bot detection).
 4.  **The Script** zips up the folder (`~/.config/google-chrome/...`) excluding lock files.
 5.  **You** download the zip and use it in your bot.
 
